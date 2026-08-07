@@ -124,6 +124,8 @@ python main.py upload --folder-id 401175004617 --file-path "../box/business.csv"
 ```bash
 python main.py upload --folder-id 401175004617 --file-path "../box/business.csv"
 ```
+### NOTE: This upload file to Box is tested with Free BOX account, which 1 version of the file. Please test on paid account.
+
 ### Terminal
 ```text
 2026-07-19 00:09:52,945 | INFO     | __main__ | BOX Utility Application started!
