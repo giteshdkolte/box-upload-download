@@ -50,8 +50,8 @@ A lightweight Python utility to **upload** and **download** files from **Box** u
 Clone the repository
 
 ```bash
-git clone https://github.com/giteshdkolte/box-upload-download-adhoc.git
-cd box-upload-download-adhoc
+git clone https://github.com/giteshdkolte/box-upload-download.git
+cd box-upload-download
 ```
 
 Create a virtual environment
