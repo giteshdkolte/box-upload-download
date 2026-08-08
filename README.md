@@ -31,7 +31,7 @@ A lightweight Python utility to **upload** and **download** files from **Box** u
 
 ## Prerequisites
 
-- Python 3.12.3
+- Python version used: 3.12.3
 - Box Developer Application with JWT Authentication enabled
 - Enterprise ID
 - Client ID
